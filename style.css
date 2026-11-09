@@ -20,7 +20,7 @@ a{color:var(--teal-soft)}
 .hero{padding:28px 0 8px;text-align:center}
 .hero h1{font-size:34px;line-height:1.15;color:var(--teal);margin:0 0 8px}
 .hero p{color:var(--muted);margin:0 auto 20px;max-width:30em}
-.cover{border-radius:var(--radius);box-shadow:0 12px 30px rgba(23,73,77,.18);margin:0 auto;max-width:420px}
+.cover{border-radius:var(--radius);box-shadow:0 12px 30px rgba(23,73,77,.18);margin:0 auto;width:100%;max-width:420px}
 
 .eyebrow{font-size:13px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--coral);margin:0 0 6px}
 section{padding:28px 0}
