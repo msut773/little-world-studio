@@ -71,3 +71,11 @@ footer{padding:30px 0 40px;color:var(--muted);font-size:13px;text-align:center}
 .page li{margin-bottom:8px}
 .updated{font-size:14px;color:var(--muted);margin-top:-4px}
 footer a{color:var(--muted)}
+
+/* Amazon search bar (top of every page) */
+.azsearch{background:var(--teal);padding:10px 0 8px}
+.azsearch .wrap{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.azsearch input[type=search]{flex:1;min-width:0;border:0;border-radius:99px;padding:10px 16px;font:inherit;font-size:16px}
+.azsearch button{border:0;border-radius:99px;background:var(--sun);color:var(--teal);font-weight:800;padding:10px 18px;font-size:15px;cursor:pointer}
+.azsearch small{flex-basis:100%;color:#cfe3e2;font-size:11px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
